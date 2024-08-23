@@ -5,12 +5,14 @@
             "includePath": [
                 "${workspaceFolder}/**"
             ],
-            "defines": ["DEBUG"],
+            "defines": [
+                "DEBUG"
+            ],
             "forcedInclude": [
                 "build.c"
             ],
             "intelliSenseMode": "clang-x64",
-            "compilerPath": "C:/Program Files/LLVM/bin/clang",
+            "compilerPath": "E:/programFiles/LLVM/bin/clang",
             "cStandard": "c11"
         }
     ],
